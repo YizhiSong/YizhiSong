@@ -1,25 +1,24 @@
 # 👋 Hi, I'm Yizhi Song
 
-I'm a postdoctoral researcher in the Physics Department at Temple University. My research focuses on computational condensed matter physics, especially the structural and electronic properties of water and ice. I use first-principles and machine learning-based molecular dynamics simulations to explore complex systems at the atomic level.
+I’m a postdoctoral researcher in physics at Temple University, with a Ph.D. in condensed matter physics from Peking University. My research focuses on computational condensed matter physics, especially the structural and electronic properties of water and ice. I use first-principles and machine learning-based molecular dynamics simulations to explore complex systems at the atomic level.
 
 ---
 
 ## 🧪 Research Interests
 
 - Density Functional Theory (DFT)
-- Molecular Dynamics (LAMMPS, DeePMD-kit)
-- Liquid water and crystalline ice
-- Hydrogen-bond networks
-- Dielectric and structural properties of molecular systems
+- Machine Learning-based Molecular Dynamics
+- Structural and Electronic Properties of Water and Ice
+- Hydrogen-Bond Networks
 
 ---
 
-## 🔧 Tools & Languages
+## 🔧 Tools & Technologies
 
-- **Python**, **C++**
-- **LAMMPS**, **VASP**, **DeePMD-kit**
-- **NumPy**, **Matplotlib**
-- HPC environments and GPU-accelerated simulations
+- **Programming:** Python, Bash, MATLAB
+- **Simulation:** VASP, Quantum ESPRESSO, LAMMPS, DeePMD-kit
+- **Data & Visualization:** NumPy, Matplotlib
+- **Environments:** Linux, HPC clusters, GPU-accelerated computing
 
 ---
 
@@ -29,7 +28,7 @@ I'm a postdoctoral researcher in the Physics Department at Temple University. My
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yizhi-song-8b97912b7)
 - 📧 Email: yzsong@pku.edu.cn
@@ -38,5 +37,5 @@ Feel free to explore my repositories or reach out if you're interested in collab
 
 ---
 
-⭐ _Thanks for visiting my profile!_
+⭐ _Thanks for stopping by!_
 
