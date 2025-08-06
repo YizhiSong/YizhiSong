@@ -31,7 +31,7 @@ I'm a postdoctoral researcher in the Physics Department at Temple University. My
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn](www.linkedin.com/in/yizhi-song-8b97912b7)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yizhi-song-8b97912b7)
 - 📧 Email: yzsong@pku.edu.cn
 
 Feel free to explore my repositories or reach out if you're interested in collaboration!
