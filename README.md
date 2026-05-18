@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Yizhi Song
 
-I’m a postdoctoral researcher in physics at Temple University, with a Ph.D. in condensed matter physics from Peking University. My research focuses on computational condensed matter physics, especially the structural and electronic properties of water and ice. I use first-principles and machine learning-based molecular dynamics simulations to explore complex systems at the atomic level.
+I am a postdoctoral researcher in the Chemistry Department at the University of North Texas. I received my Ph.D. in condensed matter physics from Peking University.
+
+My research focuses on computational molecular science, with an emphasis on first principles calculation and machine-learning-assisted modeling of complex condensed-phase systems. I am particularly interested in hydrogen-bond networks and interfacial processes.
 
 ---
 
@@ -8,15 +10,15 @@ I’m a postdoctoral researcher in physics at Temple University, with a Ph.D. in
 
 - Density Functional Theory (DFT)
 - Machine Learning-based Molecular Dynamics
-- Structural and Electronic Properties of Water and Ice
-- Hydrogen-Bond Networks
+- Hydrogen-bond networks and water/ice physics
+- Interfacial chemistry and electrocatalysis
 
 ---
 
 ## 🔧 Tools & Technologies
 
 - **Programming:** Python, Bash, MATLAB
-- **Simulation:** VASP, Quantum ESPRESSO, LAMMPS, DeePMD-kit
+- **Simulation:** VASP, Quantum ESPRESSO, ORCA, LAMMPS, DeePMD-kit
 - **Data & Visualization:** NumPy, Matplotlib
 - **Environments:** Linux, HPC clusters, GPU-accelerated computing
 
@@ -33,9 +35,9 @@ I’m a postdoctoral researcher in physics at Temple University, with a Ph.D. in
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yizhi-song-8b97912b7)
 - 📧 Email: yzsong@pku.edu.cn
 
-Feel free to explore my repositories or reach out if you're interested in collaboration!
+Feel free to explore my repositories or reach out if you're interested in collaboration in computational chemistry, materials modeling, or machine learning force field for molecular systems.
 
 ---
 
-⭐ _Thanks for stopping by!_
+⭐ _Thanks for visiting!_
 
