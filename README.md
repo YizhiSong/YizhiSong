@@ -8,10 +8,9 @@ My research focuses on computational molecular science, with a growing emphasis 
 
 ## 🧪 Research Interests
 
-- Machine Learning Interatomic Potentials (MLIPs) & ML-driven Molecular Dynamics
-- AI/ML methods for accelerating first-principles-quality simulation
+- Machine Learning Interatomic Potentials (MLIPs)
 - Density Functional Theory (DFT)
-- Interfacial chemistry, electrocatalysis, and hydrogen-bond networks
+- Interfacial chemistry, electrocatalysis，and water science
 
 ---
 
