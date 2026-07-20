@@ -2,15 +2,15 @@
 
 I am a postdoctoral researcher in the Chemistry Department at the University of North Texas. I received my Ph.D. in condensed matter physics from Peking University.
 
-My research focuses on computational molecular science, with a growing emphasis on machine-learning interatomic potentials (MLIPs) and AI-driven modeling of complex condensed-phase systems, alongside first-principles calculation.
+My research focuses on computational molecular science, with a growing emphasis on machine-learning interatomic potentials (MLIPs) and AI-driven modeling of complex condensed-phase systems.
 
 ---
 
 ## 🧪 Research Interests
 
 - Machine Learning Interatomic Potentials (MLIPs)
-- Density Functional Theory (DFT)
-- Interfacial chemistry, electrocatalysis，and water science
+- Interfacial chemistry, electrocatalysis
+- Water science
 
 ---
 
