@@ -11,7 +11,6 @@ My research focuses on computational molecular science, with a growing emphasis 
 - Machine Learning Interatomic Potentials (MLIPs)
 - Interfacial chemistry, electrocatalysis
 - Water science
-- Applying AI/ML to real-world, data-driven decision-making problems
 
 ---
 
