@@ -1,31 +1,36 @@
 # 👋 Hi, I'm Yizhi Song
 
-I am a postdoctoral researcher in the Chemistry Department at the University of North Texas. I received my Ph.D. in condensed matter physics from Peking University.
+I'm a Postdoctoral Researcher in the Department of Chemistry at the University of North Texas, with a Ph.D. in Condensed Matter Physics from Peking University.
 
-My research focuses on computational molecular science, with a growing emphasis on machine-learning interatomic potentials (MLIPs) and AI-driven modeling of complex condensed-phase systems. Recently, I've become interested in applying AI to solving real-world, data-driven problems.
+My research sits at the intersection of physics, chemistry, and artificial intelligence, where I develop computational approaches to understand complex molecular systems across multiple length and time scales. 
+
+Beyond academic research, I enjoy applying machine learning, statistical modeling, and data-driven decision-making to real-world problems, particularly in quantitative finance and algorithmic trading.
 
 ---
 
 ## 🧪 Research Interests
 
 - Machine Learning Interatomic Potentials (MLIPs)
-- Interfacial chemistry, electrocatalysis
-- Water science
+- Density Functional Theory (DFT)
+- Molecular Dynamics (MD)
+- Water and aqueous systems
+- Interfacial chemistry and electrocatalysis
+
+---
+
+## 📚 Publications
+
+I've authored 15+ peer-reviewed publications, including work published in the *Science* and *Nature* journal families.
+
+- 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=663tOzAAAAAJ)
 
 ---
 
 ## 🔧 Tools & Technologies
 
 - **Programming:** Python, Bash, MATLAB
-- **Simulation:** VASP, Quantum ESPRESSO, ORCA, LAMMPS, DeePMD-kit
-- **Data & Visualization:** NumPy, Matplotlib
-- **Environments:** Linux, HPC clusters, GPU-accelerated computing
-
----
-
-## 📄 Publications
-
-- 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=663tOzAAAAAJ)
+- **Atomistic Simulation:** VASP, Quantum ESPRESSO, ORCA, LAMMPS, DeePMD-kit, DP-GEN
+- **Scientific Computing:** Linux, HPC clusters, GPU computing, NumPy, Matplotlib
 
 ---
 
@@ -34,7 +39,7 @@ My research focuses on computational molecular science, with a growing emphasis 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yizhi-song-8b97912b7)
 - 📧 Email: yzsong@pku.edu.cn
 
-Feel free to explore my repositories or reach out if you're interested in collaboration in computational chemistry, materials modeling, or machine learning force field for molecular systems.
+Feel free to explore my repositories or reach out if you'd like to discuss research, open-source projects, or potential collaborations.
 
 ---
 
